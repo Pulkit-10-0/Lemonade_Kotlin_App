@@ -1,1 +1,1 @@
-# Lemonade_Kotlin_App
+The app uses Jetpack Compose to create an interactive step-based experience with images and text, updating the UI dynamically based on user clicks. State management with remember and mutableStateOf tracks progress through different stages, from picking a lemon to drinking lemonade.
